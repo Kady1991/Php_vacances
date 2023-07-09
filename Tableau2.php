@@ -14,7 +14,7 @@
     
 
     echo "Voici la liste des pays";
-    
+
     echo'<br/>';
     echo'<br/>';
     echo'<br/>';
@@ -52,7 +52,7 @@
     foreach($capitales as $capitale){
         echo$capitale. '<br/>';
     }
-  
+
     echo'<br/>';
     echo'<br/>';
     echo'<br/>';
